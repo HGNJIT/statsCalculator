@@ -8,7 +8,7 @@ By:
 <hr>
 
 <h3>Project Plan:</h3>
-Rebase basic bath operations from original Calculator project. Add Statistical operations
+Rebase basic math operations from original Calculator project. Add Statistical operations
 
 <b>Calculators:</b>
 <ol>
