@@ -12,6 +12,27 @@ By:
 <ol>
     <li>Methods</li>
         <ul>
+            <li>Mean: Calls the Mean static method from StatisticsOperations</li>
+        </ul>
+        <ul>
+            <li>Median: Calls the Median static method from StatisticsOperations</li>
+        </ul>
+        <ul>
+            <li>Mode: Calls the Mode static method from StatisticsOperations</li>
+        </ul>
+        <ul>
+            <li>Variance: Calls the Variance static method from StatisticsOperations</li>
+        </ul>
+        <ul>
+            <li>Standard Deviation: The measure of diversity in a data set.</li>
+        </ul>
+        <ul>
+            <li>Z-Score: Calls the Zscore static method from StatisticsOperations</li>
+        </ul>
+</ol>
+<ol>
+    <li>Operations</li>
+        <ul>
             <li>Mean: The average value of a data set</li>
         </ul>
         <ul>
