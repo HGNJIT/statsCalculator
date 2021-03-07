@@ -53,3 +53,20 @@ Rebase basic bath operations from original Calculator project. Add Statistical o
             <li>Z-Score: The number of standard deviations a data point is from the data set mean</li>
         </ul>
 </ol>
+<ol>
+    <li>Assignments:</li>
+        <ul>
+            <li>Antoun Elkomos</li>
+            <ul>Calculator object calls</ul>
+            <ul>Population Sampling</ul>
+            <ul>Random Operations</ul>
+            <ul>Statistic Operations</ul>
+        </ul>
+        <ul>
+            <li>Hannier Gil</li>
+            <ul>Rebase original Calculator</ul>
+            <ul>Random</ul>
+            <ul>Statistics</ul>
+            <ul>Tests</ul>
+        </ul>
+</ol>
