@@ -1,8 +1,6 @@
 # Statistical Calculator
 # Statistical Calculator (Team) [![Build Status](https://travis-ci.com/HGNJIT/statsCalculator.svg?branch=master)](https://travis-ci.com/HGNJIT/statsCalculator)
 <hr>
-# Statistical Calculator (Team) [![Build Status](https://travis-ci.com/kyoussef77/StatisticsCalculatorTeam.svg?branch=master)](https://travis-ci.com/HGNJIT/statsCalculator.svg?branch=master)
-IS218 Project
 
 By:
 <ul>
