@@ -54,6 +54,7 @@ Rebase basic bath operations from original Calculator project. Add Statistical o
         </ul>
 </ol>
 <ol>
+<hr>
     <li>Assignments:</li>
         <ul>
             <li>Antoun Elkomos</li>
