@@ -31,8 +31,6 @@ Rebase basic bath operations from original Calculator project. Add Statistical o
         <ul>
             <li>Z-Score: Calls the Zscore static method from StatisticsOperations</li>
         </ul>
-</ol>
-<ol>
     <li>Operations</li>
         <ul>
             <li>Mean: The average value of a data set</li>
@@ -52,8 +50,6 @@ Rebase basic bath operations from original Calculator project. Add Statistical o
         <ul>
             <li>Z-Score: The number of standard deviations a data point is from the data set mean</li>
         </ul>
-</ol>
-<ol>
     <li>Assignments:</li>
         <ul>
             <li>Antoun Elkomos</li>
