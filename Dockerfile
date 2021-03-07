@@ -1,7 +1,8 @@
-FROM python:3
+FROM python:3.7
 
-WORKDIR /src
+ADD . .
 
-COPY src/ .
+RUN pip3 install --upgrade pip
+RUN pip3 install -r requirements.txt
 
-CMD [ "python", "./main.py" ]
+CMD ["python3", "-m", "unittest", "discover", "-s","Tests"]
