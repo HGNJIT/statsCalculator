@@ -1,4 +1,5 @@
 # Statistical Calculator
+https://travis-ci.com/HGNJIT/statsCalculator.svg?branch=master
 <hr>
 
 IS218 Project
