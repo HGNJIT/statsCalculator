@@ -50,6 +50,7 @@ Rebase basic math operations from original Calculator project. Add Statistical o
         <ul>
             <li>Z-Score: The number of standard deviations a data point is from the data set mean</li>
         </ul>
+<hr>
     <li>Assignments:</li>
         <ul>
             <li>Antoun Elkomos</li>
