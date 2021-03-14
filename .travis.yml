@@ -5,6 +5,5 @@ install:
   - pip install coveralls
 script:
   - python -m  unittest discover -s  Tests
-  - coverage run -m unittest discover -s . -p test_MathOperations.py
 after_success:
   coveralls
