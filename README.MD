@@ -1,4 +1,7 @@
-# Statistical Calculator [![Build Status](https://travis-ci.com/HGNJIT/statsCalculator.svg?branch=master)](https://travis-ci.com/HGNJIT/statsCalculator)
+# Statistical Calculator
+
+Travis: [![Build Status](https://travis-ci.com/HGNJIT/statsCalculator.svg?branch=master)](https://travis-ci.com/HGNJIT/statsCalculator)
+Coveralls: [![Coverage Status](https://coveralls.io/repos/github/HGNJIT/statsCalculator/badge.svg?branch=master)](https://coveralls.io/github/HGNJIT/statsCalculator?branch=master)
 
 By:
 <ul>
