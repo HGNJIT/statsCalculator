@@ -35,5 +35,6 @@ class MyTestCase(unittest.TestCase):
         result = SampleSizeUnkownPop.sampleSize(3, self.testData, .5)
         self.assertEqual(result, 0.39384879426398156)
 
+
 if __name__ == '__main__':
     unittest.main()

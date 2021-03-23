@@ -60,9 +60,3 @@ class MyTestCase(unittest.TestCase):
         lst = RandomList.listInt(0, 10, 5, 4)
         result = PickSeedList.pickSeed(3, lst)
         self.assertEqual(result, 1)
-
-
-
-
-if __name__ == '__main__':
-    unittest.main()
